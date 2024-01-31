@@ -35,7 +35,7 @@ java ChatServer
 Run the Client:
 java ChatClient
 
-# Server Address and Port
+## Server Address and Port
 
 The client connects to the server using the specified server address and port.
 
